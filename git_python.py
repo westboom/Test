@@ -1,3 +1,3 @@
-hello = "Privet"
+hello = "Hy hitller"
 def test():
 	print(hello)
