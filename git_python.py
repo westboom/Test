@@ -1,5 +1,5 @@
 hello = "Hy hitller"
 def test():
-	return hello
+	return hello * 2
 
 print(test())
