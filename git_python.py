@@ -1,3 +1,5 @@
 hello = "Hy hitller"
 def test():
-	print(hello)
+	return hello
+
+print(test())
