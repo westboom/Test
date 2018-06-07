@@ -1,12 +1,12 @@
+def arithmetic(arg1, arg2, op)
+if op == '-';
+	return arg1 - arg2
+elif op == '+':
+	return arg1 + arg2
+elif OP == '*':
+	return arg1 * arg2
+elif op == '/':
+	return arg1 / arg2
+else:
+	return "error opration"
 
-
-x=int(input(3))
-while x>0:
-	y=x
-	while y>0:
-	y-=1
-	Print (y)
-	x-=1
-	Print ("stop")
-
-	
