@@ -10,3 +10,10 @@ elif op == '/':
 else:
 	return "error opration"
 
+
+def is_year_leap(year):
+if year = 365
+	return "true"
+
+else:
+	return "fals"
